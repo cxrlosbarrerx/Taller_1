@@ -1,0 +1,2 @@
+#Desarrollar un algoritmo de “Adivina un Número”, con las siguientes características: a) El número debe estar en el rango de 1 a 200. b) Debe tener dos niveles nivel básico y nivel experto, el nivel básico no tendrá restricciones en número de oportunidades. El Nivel experto solo tendrá 5 oportunidades. Al finalizar debe informar el número de intentos realizados antes de encontrar la respuesta correcta.
+
